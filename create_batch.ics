@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:-//Horasphere Inc.//Timesphere//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+TZID:America/New_York
+BEGIN:VEVENT
+DTSTAMP:20181107T054828Z
+DTSTART:20180925T050000
+DTEND:20180925T100000
+SUMMARY:Quart de travail
+DESCRIPTION:Division : TestSandrine2\nAffectation : Developpement
+ORGANIZER:no-reply@horasphere.com
+UID:plannedmovement|007|approved_249@timesphere.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181107T054828Z
+DTSTART:20180926T050000
+DTEND:20180926T100000
+SUMMARY:Quart de travail
+DESCRIPTION:Division : TestSandrine2\nAffectation : Developpement
+ORGANIZER:no-reply@horasphere.com
+UID:plannedmovement|007|approved_250@timesphere.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181107T054828Z
+DTSTART:20180927T050000
+DTEND:20180927T100000
+SUMMARY:Quart de travail
+DESCRIPTION:Division : TestSandrine2\nAffectation : Developpement
+ORGANIZER:no-reply@horasphere.com
+UID:plannedmovement|007|approved_251@timesphere.com
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
