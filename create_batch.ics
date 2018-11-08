@@ -33,4 +33,14 @@ ORGANIZER:no-reply@horasphere.com
 UID:plannedmovement|007|approved_252@timesphere.com
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181107T054828Z
+DTSTART:20180923T050000
+DTEND:20180923T100000
+SUMMARY:Quart de travail
+DESCRIPTION:Division : TestSandrine2\nAffectation : Developpement
+ORGANIZER:no-reply@horasphere.com
+UID:plannedmovement|007|approved_253@timesphere.com
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
