@@ -41,6 +41,7 @@ SUMMARY:Quart de travail
 DESCRIPTION:Division : TestSandrine2\nAffectation : Developpement
 ORGANIZER:no-reply@horasphere.com
 UID:plannedmovement|007|approved_253@timesphere.com
-STATUS:CONFIRMED
+STATUS:CANCELLED
+SEQUENCE:1
 END:VEVENT
 END:VCALENDAR
