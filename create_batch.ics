@@ -32,6 +32,7 @@ DESCRIPTION:Division : TestSandrine2\nAffectation : Developpement
 ORGANIZER:no-reply@horasphere.com
 UID:plannedmovement|007|approved_253@timesphere.com
 STATUS:CANCELLED
-SEQUENCE:1
+SEQUENCE:99
+METHOD:CANCEL
 END:VEVENT
 END:VCALENDAR
